@@ -1,4 +1,4 @@
-# MOPSO_CloudSim
+# Task Schedulling using Multi-objective particle swarm optimization in cloudsim
 
 Implementation of Multi-Objective Particle Swarm Optimization using cloudsim.
 
